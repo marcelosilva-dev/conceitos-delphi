@@ -1,0 +1,105 @@
+object Form3: TForm3
+  Left = 0
+  Top = 0
+  Caption = 'Tela Inicial'
+  ClientHeight = 561
+  ClientWidth = 830
+  Color = clInactiveCaption
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lb_cad_usuarios: TLabel
+    Left = 40
+    Top = 21
+    Width = 252
+    Height = 33
+    Caption = 'Cadastro de Usu'#225'rios'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -27
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+  end
+  object lb_nome_inicial: TLabel
+    Left = 40
+    Top = 173
+    Width = 57
+    Height = 13
+    Caption = 'Nome Inicial'
+  end
+  object lb_nome_do_meio: TLabel
+    Left = 167
+    Top = 173
+    Width = 67
+    Height = 13
+    Caption = 'Nome do Meio'
+  end
+  object lb_nome_final: TLabel
+    Left = 294
+    Top = 173
+    Width = 52
+    Height = 13
+    Caption = 'Nome Final'
+  end
+  object lb_valor: TLabel
+    Left = 40
+    Top = 232
+    Width = 3
+    Height = 13
+  end
+  object btn_salvar: TButton
+    Left = 40
+    Top = 72
+    Width = 75
+    Height = 25
+    Cursor = crHandPoint
+    Caption = 'Salvar'
+    TabOrder = 0
+    OnClick = btn_salvarClick
+  end
+  object txt_primeiro_nome: TEdit
+    Left = 40
+    Top = 192
+    Width = 121
+    Height = 21
+    TabOrder = 1
+  end
+  object txt_nome_do_meio: TEdit
+    Left = 167
+    Top = 192
+    Width = 121
+    Height = 21
+    TabOrder = 2
+  end
+  object txt_nome_final: TEdit
+    Left = 294
+    Top = 192
+    Width = 121
+    Height = 21
+    TabOrder = 3
+  end
+  object btn_deletar: TButton
+    Left = 40
+    Top = 103
+    Width = 75
+    Height = 25
+    Caption = 'Deletar'
+    TabOrder = 4
+    OnClick = btn_deletarClick
+  end
+  object btn_editar: TButton
+    Left = 40
+    Top = 134
+    Width = 75
+    Height = 25
+    Caption = 'Editar'
+    TabOrder = 5
+    OnClick = btn_editarClick
+  end
+end

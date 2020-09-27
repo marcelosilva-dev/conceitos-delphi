@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/11/07 06:56:53.000.878,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/11/07 19:09:38.000.163,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/09/26 22:21:16.000.384,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2020/09/27 00:32:38.000.118,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit1.pas</Transaction>
+    <Transaction>2020/09/27 00:32:38.000.118,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit1.dfm</Transaction>
+    <Transaction>2020/09/27 00:32:40.000.887,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Project1.dproj</Transaction>
+    <Transaction>2020/09/27 11:54:49.000.239,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit2.pas</Transaction>
+    <Transaction>2020/09/27 11:55:06.000.889,=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit4.pas</Transaction>
+    <Transaction>2020/09/27 12:00:15.000.023,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit4.dfm=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit_Initial.dfm</Transaction>
+    <Transaction>2020/09/27 12:00:15.000.023,C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit4.pas=C:\Users\marce\OneDrive\Documentos\Embarcadero\Studio\Projects\PROJETO1\Unit_Initial.pas</Transaction>
+  </Transactions>
+</BorlandProject>
